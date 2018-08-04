@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "EZ_Media_WangYinan", "EZ_Media_WangYinan\EZ_Media_WangYinan.pyproj", "{0CE03189-19CB-4E74-934C-89B1CE95816E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CE03189-19CB-4E74-934C-89B1CE95816E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE03189-19CB-4E74-934C-89B1CE95816E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F756B602-23CC-4D7F-8C7B-C30D091C6419}
+	EndGlobalSection
+EndGlobal
